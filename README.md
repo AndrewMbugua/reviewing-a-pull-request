@@ -1,7 +1,7 @@
 ## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
-
+You can play the game at: https://AndrewMbugua.github.io/github-games/
 To play the game:
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
@@ -18,4 +18,3 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
     Left reviews and line comments
     Created a file and made a commit
     Opened a pull request
-
